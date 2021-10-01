@@ -1,0 +1,27 @@
+{
+  "name": "45-consuming-api",
+  "version": "1.0.0",
+  "description": "CodeDrops - Class 45 from Rocketseat - Consuming API",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon .",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raymw1/codedrops-45-consuming-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raymw1/codedrops-45-consuming-api/issues"
+  },
+  "homepage": "https://github.com/Raymw1/codedrops-45-consuming-api#readme",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13"
+  }
+}
